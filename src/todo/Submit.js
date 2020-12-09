@@ -4,11 +4,6 @@ import Button from '@material-ui/core/Button';
 import Grid from '@material-ui/core/Grid';
 import Todo from './Todo'
 
-function collectTodoItem(e) {
-    //document.getElementById('todoItem').value
-    //listOfTodoItems.push(document.getElementById('todoItem').value)
-}
-
 class Submit extends React.Component {
     constructor(props) {
         super(props);
